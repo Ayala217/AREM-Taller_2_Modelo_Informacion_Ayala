@@ -1,27 +1,43 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+#  Registro de Trabajo en Clase - Taller 2
 
-## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+##  Fecha de la sesión
+14 de Febrero
 
-## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+##  Integrantes presentes
+- Juan Sebastián Ayala Silva
+- Camilo Arciniegas
+- Juan Diego Campo
+- Julián Mauricio Zafra
+- Santiago Araque
+- Juan José Forero
 
-## 🧠 Actividades realizadas en clase
+##  Actividades realizadas en clase
 
 Describa brevemente qué se hizo durante la sesión:
 
 - ¿Qué se discutió con el equipo?
+
+La estructura del modelo ERD de la clínica, pues tuvimos dudas respecto a las relaciones entre las entidades del modelo.
+  
 - ¿Qué decisiones de modelado se tomaron?
+
+Se priorizaron las relaciones y entidades descritas en el contexto de la Parte 1 para tener un boceto inicial del diagrama ERD.
+
 - ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
+
+Draw.io para el modelo ERD y de contexto.
+
 - ¿Qué parte del trabajo se alcanzó a desarrollar?
 
-## 🧩 Boceto inicial del modelo
+El boceto inicial del modelo ERD y la totalidad del diagrama de contexto.
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
 
-## 🔁 Tareas definidas para complementar el taller
+##  Boceto inicial del modelo
+
+<img width="955" height="667" alt="image" src="https://github.com/user-attachments/assets/1c766e64-c13a-40b2-a25f-52ef20405e52" />
+
+
+##  Tareas definidas para complementar el taller
 
 Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
 
