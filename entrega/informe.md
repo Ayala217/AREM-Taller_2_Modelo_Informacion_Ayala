@@ -33,6 +33,7 @@ Incluya un análisis sobre:
 
 
 > Modelo ER:
+
 ![modelo-final-er drawio](https://github.com/user-attachments/assets/499e131d-4c6f-4cfe-a356-7321e778e04d)
 
 ##  Tabla de actores, entidades o componentes (si aplica)
