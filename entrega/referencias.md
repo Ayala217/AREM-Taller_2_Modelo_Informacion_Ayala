@@ -3,7 +3,7 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ##  Taller
-_Taller X - [Nombre del Taller]_
+_Taller 2: Modelo de Información y Diagrama de Contexto_
 
 ---
 
@@ -16,6 +16,7 @@ _Taller X - [Nombre del Taller]_
 
 [3] E. Cadavid Rodríguez et al., Desarrollo de una aplicación web adaptativa para el despliegue de información asociada a la capa aplicativa del modelo de referencia de la arquitectura actual y objetiva de la empresa Bancolombia, Universidad de Antioquia, Mar. 2021. [En Línea]. Disponible: https://hdl.handle.net/10495/23110
 
+[4] Contacto directamente con el dueño de ATP, Mateo Gómez.
 
 
 _Este archivo forma parte de la entrega académica del curso AREM - Universidad de La Sabana._
