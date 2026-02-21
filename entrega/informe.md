@@ -9,19 +9,30 @@ Taller 2 Modelo de Información
 - Juan Diego Campo (juancamco@unisabana.edu.co)
 
 ##  Descripción general del trabajo
-Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
+Crear Modelos ER y diagramas de contexto para mejorar el entendimiento del negocio cliente que se manejará a lo largo del semestre.
+Se siguieron las intrucciones del profesor dadas en clase y también se buscaron más ejemplos en internet para crear el modelo 
+y el diagrama.
 
 ##  Proceso de desarrollo
-Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando.
+La única herramienta utilizada fue draw.io.
 
 ##  Análisis del modelo propuesto
 Incluya un análisis sobre:
 - Cómo se estructura el modelo entregado
+  El modelo entregado se estructura de forma que el cliente puede pagar muchas clases (las que vaya a asistir ese mes) y
+  también puede asistir a muchas clases (siempre y cuando sea el mismo mes y no se pase del número que adquirió). 
 - Cómo representa las necesidades del cliente
+  Las necesidades se representan en sentido de que toca manejar las asistencias y pagos uno por uno, pues esto se puede automatizar muy sencillo
+  pero el cliente aún lo hace manualmente.
 - Qué supuestos se tomaron
+  Se supuso que todos los clientes del gimnasio han firmado autorizaciones de tratamiento de datos personales y exoneración de responsabilidad.
 
 ##  Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
+> Diagrama de contexto:
+<img width="651" height="297" alt="diagrama-contexto-final drawio" src="https://github.com/user-attachments/assets/9dd4bc6e-0aae-4000-a004-d6810aacf957" />
+
+> Modelo ER:
+![modelo-final-er drawio](https://github.com/user-attachments/assets/499e131d-4c6f-4cfe-a356-7321e778e04d)
 
 ##  Tabla de actores, entidades o componentes (si aplica)
 
