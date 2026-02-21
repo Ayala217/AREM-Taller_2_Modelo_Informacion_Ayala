@@ -14,7 +14,8 @@ Se siguieron las intrucciones del profesor dadas en clase y también se buscaron
 y el diagrama.
 
 ##  Proceso de desarrollo
-La única herramienta utilizada fue draw.io.
+Se elaboró el **modelo entidad–relación (ER)** y el **diagrama de contexto**, con el fin de representar la estructura de datos y la interacción del sistema con su entorno. Se identificaron las entidades principales que soportan la operación: Cliente, Pago, Clase y Asistencia, las cuales permiten registrar la compra de clases, la programación de sesiones y el control de asistencia. Asimismo, el diagrama de contexto permitió visualizar la interacción entre los cuatro actores del proceso —clientes, gimnasio, el sistema de registro (Excel) y el banco— y el flujo de información entre ellos. Ambos modelos fueron desarrollados en draw.io para garantizar una representación clara y coherente con el funcionamiento real del gimnasio.
+
 
 ##  Análisis del modelo propuesto
 Incluya un análisis sobre:
