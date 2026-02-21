@@ -38,17 +38,15 @@ Incluya un análisis sobre:
 
 ##  Tabla de actores, entidades o componentes (si aplica)
 
-cambiar cuando metan el diagrama
-
-| Nombre del elemento                     | Tipo        | Descripción                                                                 | Responsable |
-|------------------------------------------|------------|-----------------------------------------------------------------------------|-------------|
-| Cliente                                 | Actor      | Persona que recibe clases mensuales, realiza el pago y asiste a entrenamientos. | Cliente |
-| Personal administrativo del gimnasio    | Actor      | Recibe el pago, registra información en el sistema y gestiona el cierre mensual. | Gimnasio |
-| Entrenador                              | Actor      | Imparte la clase y valida la asistencia de los clientes.                  | Gimnasio |
-| Archivo Excel                           | Entidad  | Herramienta utilizada para registrar pagos, asistencia y saldo de clases. | Gimnasio |
-| Registro de pago                        | Entidad    | Información almacenada sobre el número de clases adquiridas por el cliente. | Personal administrativo |
-| Registro de asistencia                  | Entidad    | Registro de los clientes que asistieron a clase y evidencia fotográfica.  | Personal administrativo |
-| Fotografía de evidencia                 | Entidad    | Imagen adjunta como prueba de asistencia del cliente a la clase.          | Personal administrativo |
+| Nombre del elemento              | Tipo                 | Descripción                                                                 | Responsable                |
+|-----------------------------------|----------------------|-----------------------------------------------------------------------------|----------------------------|
+| Cliente                           | Entidad              | Persona inscrita en el gimnasio con datos básicos como nombre, teléfono y correo. | Recepción / Administración |
+| Pago                              | Entidad              | Registro de pagos realizados por los clientes, incluyendo fecha y clases compradas. | Recepción                  |
+| Clase                             | Entidad              | Clase ofrecida por el gimnasio con información de fecha, hora y capacidad. | Entrenador / Administración |
+| Asistencia                        | Entidad asociativa   | Registro de la asistencia de un cliente a una clase específica, incluyendo evidencia fotográfica. | Entrenador                 |
+| Clientes                          | Actor         | Imparte la clase y valida la asistencia de los clientes. | Gimnasio                    |
+| Entrenador                  | Actor      | Herramienta utilizada para almacenar y actualizar información administrativa y control de clases restantes. | Gimnasio             |
+| Personal administrativo del gimnasio                  | Actor      | Recibe el pago, registra información en el sistema y gestiona el cierre mensual. | Gimnasio             |
 
 
 ##  Investigación complementaria
