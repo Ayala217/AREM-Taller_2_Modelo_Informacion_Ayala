@@ -31,6 +31,7 @@ Incluya un análisis sobre:
 > Diagrama de contexto:
 <img width="651" height="297" alt="diagrama-contexto-final drawio" src="https://github.com/user-attachments/assets/9dd4bc6e-0aae-4000-a004-d6810aacf957" />
 
+
 > Modelo ER:
 ![modelo-final-er drawio](https://github.com/user-attachments/assets/499e131d-4c6f-4cfe-a356-7321e778e04d)
 
