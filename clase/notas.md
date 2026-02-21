@@ -43,9 +43,15 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+| Modelado final en draw.io | Juan Diego Campo | 19/02 |
+| Redacción del informe     | Juan Sebastián Ayala  | 19/02 |
+| Redacción del informe | Camilo Arciniegas | 19/02 |
+| Diagrama de contexto Parte 1 | Julián Zafra | 14/02 |
+| Diagrama de contexto Parte 1 | Juan José Forero | 14/02 |
+| Diagrama de contexto Parte 1 | Santiago Araque | 14/02 |
+| Diagrama ERD Parte 1 | Juan Sebastián Ayala | 14/02 |
+| Diagrama de contexto Parte 1 | Juan Diego Campo | 14/02 |
+| Diagrama de contexto Parte 1 | Camilo Arciniegas | 14/02 |
 
 ---
 
