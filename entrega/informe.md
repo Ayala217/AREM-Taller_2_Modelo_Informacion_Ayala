@@ -5,8 +5,8 @@ Taller 2 Modelo de Información
 
 ##  Integrantes del equipo para la segunda parte del taller
 - Juan Sebastián Ayala (juanaysi@unisabana.edu.co)
-- Camilo Arciniegas Guerrero
-- Juan Diego Campo
+- Camilo Arciniegas Guerrero (camiloarcgu@unisabana.edu.co)
+- Juan Diego Campo (juancamco@unisabana.edu.co)
 
 ##  Descripción general del trabajo
 Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
